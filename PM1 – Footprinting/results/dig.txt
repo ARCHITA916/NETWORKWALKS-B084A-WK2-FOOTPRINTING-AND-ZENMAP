@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.20.27-2-Debian <<>> networkwalks.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42628
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;networkwalks.com.		IN	A
+
+;; ANSWER SECTION:
+networkwalks.com.	6974	IN	A	192.232.216.135
+
+;; Query time: 40 msec
+;; SERVER: 10.0.0.1#53(10.0.0.1) (UDP)
+;; WHEN: Mon Nov 09 12:58:56 IST 2026
+;; MSG SIZE  rcvd: 50
+
