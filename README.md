@@ -44,7 +44,7 @@ The following six tools were used during the footprinting exercise:
 
 ### B. Network Scanning – Zenmap
 
-Zenmap (Nmap GUI)** was used to perform a ping scan and identify live hosts in the local network.
+Zenmap (Nmap GUI) was used to perform a ping scan and identify live hosts in the local network.
 
 - Scan profile: Ping Scan
 - Scan command: `nmap -sn 10.227.168.0/24`
